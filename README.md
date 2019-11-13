@@ -1,5 +1,5 @@
 # knime_voice_project
-## course final project
+## course final project (第12組)
 * download
 ```yaml
  git clone https://github.com/king87515/knime_voice_project
